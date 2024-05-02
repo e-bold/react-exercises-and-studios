@@ -1,5 +1,9 @@
 .choresText {
-   color: black;
+   color: blue;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 5vw;
+   text-underline-position: below;
+   font-style: italic;
 }
 
 .choresHeading {
