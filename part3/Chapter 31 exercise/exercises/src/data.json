@@ -1,0 +1,27 @@
+{ "projects": [
+    {
+        "park": "Zion National Park",
+        "state": "Utah",
+        "photoUrl": "https://images.ctfassets.net/0wjmk6wgfops/6dXSaHtzVPu4157oE4xOco/152c215c347ba07a965b43eed6ad5ff8/f6ee226186_ff34c372-00e8-4db8-8265-11783d2c33b8.jpg?w=768&q=70",
+        "alt": "Observation Point"
+    },
+    {
+        "park": "Estes Park",
+        "state": "Colorado",
+        "photoUrl": "https://www.kirksmountainadventures.com/wp-content/uploads/bb-plugin/cache/estes-park-snowshoeing-guides-square-59ae23ed249253c39bb0b723ddfb7115-453reqviy9z8.png",
+        "alt": "Dream Lake"
+    },
+    {
+        "park": "Yosemite",
+        "state": "California",
+        "photoUrl": "https://cdn.aarp.net/content/dam/aarp/travel/destinations/2020/09/1140-yosemite-hero.imgcache.rev.web.1400.804.jpg",
+        "alt": "El Capitan"
+    },
+    {
+        "park": "Grand Canyon",
+        "state": "Arizona",
+        "photoUrl": "https://cdn.outsideonline.com/wp-content/uploads/2018/11/20/grand-canyon-hiking_h.jpg?width=800",
+        "alt": "Grand Canyon"
+    }
+    ]
+}
